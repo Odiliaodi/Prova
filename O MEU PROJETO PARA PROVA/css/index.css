@@ -1,0 +1,55 @@
+.site{
+	background-color:black;
+	height: 900px;
+	width: 900px;
+}
+.cabeçalho{
+	background-color: green;
+	height: 100px;
+}
+.corpo{
+	background-color:red;
+	height: 700px;
+}
+.serviços{
+	background-color: white;
+	height: 20px;
+}
+.serviços ul {
+	text-align: center;
+}
+.serviços ul li {
+	display: table-cell;
+}
+.serviços ul li a{
+	text-decoration: none;
+	margin-left: 50px;
+}
+.artigos{
+	background-color: gray;
+	height: 
+}
+.box{
+	margin-right: 5px;
+	height: 0 auto;
+	}
+.box img{
+	margin: 15px;
+	float: right;
+}
+.sidebar{
+	background-color: yellow;
+	height: 500px;
+	width: 300px;
+	float: left;
+
+}
+.rodapé{
+	background-color:black;
+	height: 00px;
+}
+.rodapé p{
+	color: white;
+	text-align: center;
+
+}
